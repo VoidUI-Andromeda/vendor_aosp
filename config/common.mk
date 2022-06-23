@@ -112,6 +112,10 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     DarkBgOverlay
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # TouchGestures
 PRODUCT_PACKAGES += \
     TouchGestures
